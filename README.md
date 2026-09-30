@@ -1,7 +1,43 @@
 # Chavez_icons
-## 图标仓库
 
-免责声明
+个人常用图标仓库：收集整理常用的应用图标，配套自动生成的 `chavez.icons.json` 索引，方便订阅和调用。
+
+## 仓库结构
+
+- `Icons/`：图标文件（目前仅收录 `.png` 格式）
+- `chavez.icons.json`：由 GitHub Actions 自动生成的图标索引，请勿手动修改
+- `.github/workflows/image_workflow.yml`：监听 `Icons/` 目录的推送，自动重新生成 JSON 并提交
+
+## 如何使用
+
+直接引用 `chavez.icons.json` 即可获取全部图标：
+
+```text
+https://raw.githubusercontent.com/kravezing/chavez_icons/main/chavez.icons.json
+```
+
+JSON 格式示例：
+
+```json
+{
+  "name": "chavez_icons",
+  "description": "收集一些自己常用的图标,如果你有喜欢的图标不在列表，请到issue提交，我看到以后会把它＋到icons仓库",
+  "icons": [
+    { "name": "YouTube.png", "url": "https://raw.githubusercontent.com/..." }
+  ]
+}
+```
+
+## 如何贡献新图标
+
+1. 把 `.png` 图标文件上传到 `Icons/` 目录（文件名建议使用英文、无空格）
+2. 推送后工作流会自动更新 `chavez.icons.json`，无需手动操作
+3. 也可以直接到 [Issues](../../issues) 提交你想要的图标，看到后会收录进仓库
+
+---
+
+## 免责声明
+
 项目内所涉及工作流、脚本、LOGO 仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；切勿使用项目做任何商业用途或牟利；
 
 遵循避风港原则，若有图片和内容侵权，请在 Issues 告知，核实后删除，其版权均归原作者及其网站所有；
@@ -23,4 +59,3 @@
 所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。
 
 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
-
