@@ -3,92 +3,92 @@
   "description": "收集一些自己常用的图标,如果你有喜欢的图标不在列表，请到issue提交，我看到以后会把它＋到icons仓库",
   "icons": [
     {
-      "name": "YouTube.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/YouTube.png"
-    },
-    {
-      "name": "Working.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Working.png"
-    },
-    {
-      "name": "Reflix.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Reflix.png"
+      "name": "TikTok.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/TikTok.png"
     },
     {
       "name": "WeChat.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/WeChat.png"
-    },
-    {
-      "name": "TikTok.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/TikTok.png"
-    },
-    {
-      "name": "Bilibili.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Bilibili.png"
-    },
-    {
-      "name": "iMaoTai.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/iMaoTai.png"
-    },
-    {
-      "name": "BDPAN.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/BDPAN.png"
-    },
-    {
-      "name": "Notion.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Notion.png"
-    },
-    {
-      "name": "Google.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Google.png"
-    },
-    {
-      "name": "GitHub.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/GitHub.png"
-    },
-    {
-      "name": "CSDN.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/CSDN.png"
-    },
-    {
-      "name": "Spotify.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Spotify.png"
-    },
-    {
-      "name": "Telegram.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Telegram.png"
-    },
-    {
-      "name": "TADAL.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/TADAL.png"
-    },
-    {
-      "name": "ChatGPT.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/ChatGPT.png"
-    },
-    {
-      "name": "Bing.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Bing.png"
-    },
-    {
-      "name": "Perplexity.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Perplexity.png"
-    },
-    {
-      "name": "Claude.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Claude.png"
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/WeChat.png"
     },
     {
       "name": "BKZF.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/BKZF.png"
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/BKZF.png"
     },
     {
-      "name": "Deepseek.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Deepseek.png"
+      "name": "YouTube.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/YouTube.png"
+    },
+    {
+      "name": "TADAL.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/TADAL.png"
+    },
+    {
+      "name": "Notion.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Notion.png"
+    },
+    {
+      "name": "Telegram.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Telegram.png"
+    },
+    {
+      "name": "Bing.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Bing.png"
+    },
+    {
+      "name": "Claude.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Claude.png"
+    },
+    {
+      "name": "Perplexity.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Perplexity.png"
+    },
+    {
+      "name": "iMaoTai.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/iMaoTai.png"
+    },
+    {
+      "name": "Working.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Working.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Google.png"
+    },
+    {
+      "name": "ChatGPT.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/ChatGPT.png"
+    },
+    {
+      "name": "BDPAN.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/BDPAN.png"
+    },
+    {
+      "name": "CSDN.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/CSDN.png"
+    },
+    {
+      "name": "GitHub.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/GitHub.png"
+    },
+    {
+      "name": "Reflix.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Reflix.png"
+    },
+    {
+      "name": "Bilibili.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Bilibili.png"
     },
     {
       "name": "Apple Music.png",
-      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Apple Music.png"
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Apple Music.png"
+    },
+    {
+      "name": "Deepseek.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Deepseek.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/Icons/Spotify.png"
     }
   ]
 }
