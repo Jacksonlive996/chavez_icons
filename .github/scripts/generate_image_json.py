@@ -2,7 +2,7 @@ import os
 import json
 
 def generate_json():
-    image_folder = 'Icons'
+    image_folder = 'icon'
     json_data = {
         "name": "chavez_icons",
         "description": "收集一些自己常用的图标,如果你有喜欢的图标不在列表，请到issue提交，我看到以后会把它＋到icons仓库",
