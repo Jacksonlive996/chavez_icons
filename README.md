@@ -23,7 +23,7 @@ JSON 格式示例：
   "name": "chavez_icons",
   "description": "收集一些自己常用的图标,如果你有喜欢的图标不在列表，请到issue提交，我看到以后会把它＋到icons仓库",
   "icons": [
-    { "name": "YouTube.png", "url": "https://raw.githubusercontent.com/..." }
+    { "name": "Muse.png", "url": "https://raw.githubusercontent.com/..." }
   ]
 }
 ```
