@@ -4,7 +4,7 @@
 
 ## 仓库结构
 
-- `Icons/`：图标文件（目前仅收录 `.png` 格式）
+- `icon/`：图标文件（目前仅收录 `.png` 格式）
 - `chavez.icons.json`：由 GitHub Actions 自动生成的图标索引，请勿手动修改
 - `.github/workflows/image_workflow.yml`：监听 `Icons/` 目录的推送，自动重新生成 JSON 并提交
 
@@ -13,7 +13,7 @@
 直接引用 `chavez.icons.json` 即可获取全部图标：
 
 ```text
-https://raw.githubusercontent.com/kravezing/chavez_icons/main/chavez.icons.json
+https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/chavez.icons.json
 ```
 
 JSON 格式示例：
@@ -30,7 +30,7 @@ JSON 格式示例：
 
 ## 如何贡献新图标
 
-1. 把 `.png` 图标文件上传到 `Icons/` 目录（文件名建议使用英文、无空格）
+1. 把 `.png` 图标文件上传到 `icon/` 目录（文件名建议使用英文、无空格）
 2. 推送后工作流会自动更新 `chavez.icons.json`，无需手动操作
 3. 也可以直接到 [Issues](../../issues) 提交你想要的图标，看到后会收录进仓库
 
