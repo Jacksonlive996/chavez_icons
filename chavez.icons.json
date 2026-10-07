@@ -3,6 +3,10 @@
   "description": "收集一些自己常用的图标,如果你有喜欢的图标不在列表，请到issue提交，我看到以后会把它＋到icons仓库",
   "icons": [
     {
+      "name": "PayPal.png",
+      "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/icon/PayPal.png"
+    },
+    {
       "name": "LinuxDo.png",
       "url": "https://raw.githubusercontent.com/Jacksonlive996/chavez_icons/main/icon/LinuxDo.png"
     },
